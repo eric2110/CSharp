@@ -1,9 +1,17 @@
-git.exe push --progress "origin" master
 
-fatal: Could not read from remote repository.
+//2018-9-15
+//Web API, Android and Users
+https://forums.asp.net/t/2095260.aspx?Web+API+Android+and+Users
 
-Please make sure you have the correct access rights
-and the repository exists.
+ASP.NET Web Api and Identity 2.0 – Customizing Identity Models and Implementing Role-Based Authorization
+http://johnatten.com/2014/10/26/asp-net-web-api-and-identity-2-0-customizing-identity-models-and-implementing-role-based-authorization/
 
+The following links may be helpful for you.
 
-git did not exit cleanly (exit code 128) (34797 ms @ 2018/9/9 下午 10:21:22)
+1: Use a web API from your Android app:
+
+http://www.androidauthority.com/use-remote-web-api-within-android-app-617869/
+
+2: call ASP.Net Web API from Android Studio:
+
+http://instinctcoder.com/how-to-call-asp-net-web-api-from-android-studio/
