@@ -1,6 +1,6 @@
-
-//2018-9-15
-//Web API, Android and Users
+Author: Eric
+Add Date: 2018-9-15
+Subject: Web API, Android and Users
 https://forums.asp.net/t/2095260.aspx?Web+API+Android+and+Users
 
 ASP.NET Web Api and Identity 2.0 – Customizing Identity Models and Implementing Role-Based Authorization
